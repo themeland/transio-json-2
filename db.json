@@ -1,0 +1,241 @@
+{
+    "blog": {
+        "blogData": [
+            {
+                "id": 1,
+                "image": "/img/blog_1.jpg",
+                "author": "Junaid Hasan",
+                "date": "May 05, 2021",
+                "title": "A Simple Way to Ship – International Loading Priority for your Freight",
+                "text": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+                "icon": "icon-arrow-right-circle",
+                "btn": "Read More"
+            },
+            {
+                "id": 2,
+                "image": "/img/blog_2.jpg",
+                "author": "Anna Sword",
+                "date": "Sep 09, 2021",
+                "title": "Your Guide to Freight Containers 2021",
+                "text": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+                "icon": "icon-arrow-right-circle",
+                "btn": "Read More"
+            },
+            {
+                "id": 3,
+                "image": "/img/blog_3.jpg",
+                "author": "John Doe",
+                "date": "Aug 17, 2021",
+                "title": "Documents you Need When Shipping your Cargo",
+                "text": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+                "icon": "icon-arrow-right-circle",
+                "btn": "Read More"
+            },
+            {
+                "id": 4,
+                "image": "/img/blog_4.jpg",
+                "author": "Jassica William",
+                "date": "Apr 23, 2021",
+                "title": "Understanding Ocean Freight – & What It Means for your Business",
+                "text": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+                "icon": "icon-arrow-right-circle",
+                "btn": "Read More"
+            },
+            {
+                "id": 5,
+                "image": "/img/blog_5.jpg",
+                "author": "Junaid Hasan",
+                "date": "Jan 19, 2021",
+                "title": "5 Things you Need to Consider Before Shipping for the First Time",
+                "text": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+                "icon": "icon-arrow-right-circle",
+                "btn": "Read More"
+            },
+            {
+                "id": 6,
+                "image": "/img/blog_6.jpg",
+                "author": "Yasmin Akter",
+                "date": "Jun 02, 2021",
+                "title": "Understanding Coronavirus – The Impact & Precautions on Logistics",
+                "text": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+                "icon": "icon-arrow-right-circle",
+                "btn": "Read More"
+            },
+            {
+                "id": 7,
+                "image": "/img/blog_7.jpg",
+                "author": "Arham",
+                "date": "Mar 15, 2021",
+                "title": "The Origin Story – Understanding Freight Costs",
+                "text": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+                "icon": "icon-arrow-right-circle",
+                "btn": "Read More"
+            },
+            {
+                "id": 8,
+                "image": "/img/blog_8.jpg",
+                "author": "Sara Scotch",
+                "date": "Sep 20, 2021",
+                "title": "COVID-19 – How We Can Help your Logistics ",
+                "text": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+                "icon": "icon-arrow-right-circle",
+                "btn": "Read More"
+            },
+            {
+                "id": 9,
+                "image": "/img/blog_9.jpg",
+                "author": "Anna Sword",
+                "date": "Nov 01, 2021",
+                "title": "How the Incident In the Suez Canal Impacted Our Operations",
+                "text": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+                "icon": "icon-arrow-right-circle",
+                "btn": "Read More"
+            }
+        ]
+    },
+    "sidebar": {
+        "heading": "Categories",
+        "headingTwo": "Popular Post",
+        "headingThree": "Popular Tags",
+        "widgetData": [
+            {
+                "id": 1,
+                "text": "Transportation",
+                "content": "(14)"
+            },
+            {
+                "id": 2,
+                "text": "Logistics",
+                "content": "(32)"
+            },
+            {
+                "id": 3,
+                "text": "Wordpress",
+                "content": "(27)"
+            },
+            {
+                "id": 4,
+                "text": "Ocean Freight",
+                "content": "(18)"
+            },
+            {
+                "id": 5,
+                "text": "Warehouse",
+                "content": "(15)"
+            },
+            {
+                "id": 6,
+                "text": "Business",
+                "content": "(29)"
+            }
+        ],
+        "widgetDataTwo": [
+            {
+                "id": 1,
+                "image": "/img/blog_1.jpg",
+                "date": "05 Feb, 2021",
+                "title": "Post Tile Here"
+            },
+            {
+                "id": 2,
+                "image": "/img/blog_2.jpg",
+                "date": "12 Feb, 2021",
+                "title": "Post Tile Here"
+            },
+            {
+                "id": 3,
+                "image": "/img/blog_3.jpg",
+                "date": "13 Jul, 2021",
+                "title": "Post Tile Here"
+            },
+            {
+                "id": 4,
+                "image": "/img/blog_4.jpg",
+                "date": "03 Oct, 2021",
+                "title": "Post Tile Here"
+            }
+        ],
+        "widgetDataThree": [
+            {
+                "id": 1,
+                "text": "Transio"
+            },
+            {
+                "id": 2,
+                "text": "Business"
+            },
+            {
+                "id": 3,
+                "text": "Cargo"
+            },
+            {
+                "id": 4,
+                "text": "Logistics"
+            },
+            {
+                "id": 5,
+                "text": "Lifestyle"
+            },
+            {
+                "id": 6,
+                "text": "WordPress"
+            },
+            {
+                "id": 7,
+                "text": "Fashion"
+            },
+            {
+                "id": 8,
+                "text": "Media"
+            },
+            {
+                "id": 9,
+                "text": "UI Design"
+            },
+            {
+                "id": 10,
+                "text": "Mobile"
+            },
+            {
+                "id": 11,
+                "text": "App"
+            },
+            {
+                "id": 12,
+                "text": "Landing Page"
+            }
+        ]
+    },
+    "blogDetails": {
+        "title": "A Simple Way to Ship – International Loading Priority for your Freight",
+        "image": "/img/blog_1.jpg",
+        "author": "Junaid Hasan",
+        "date": "05 Feb, 2021",
+        "comments": "2 Comments",
+        "text_1": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Similique placeat deleniti repellat alias maiores corrupti, commodi rem eum molestiae distinctio vitae perferendis at esse ex quas hic quis debitis quasi aspernatur incidunt, excepturi sapiente ducimus nisi. Ad molestiae, blanditiis ducimus.",
+        "quote": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maxime magnam, molestias omnis quam veritatis consectetur nihil aliquid quo culpa? Ullam molestiae id temporibus nemo inventore, at reiciendis distinctio porro atque!",
+        "text_2": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Similique placeat deleniti repellat alias maiores corrupti, commodi rem eum molestiae distinctio vitae perferendis at esse ex quas hic quis debitis quasi aspernatur incidunt, excepturi sapiente ducimus nisi. Ad molestiae, blanditiis ducimus.",
+        "adminImage": "/img/avatar_1.png",
+        "admin": "Junaid Hasan",
+        "adminText": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quo eius nam facere enim, voluptas incidunt officiis molestiae, nostrum dolor? Fugit.",
+        "comment": "Recent Comments",
+        "post": "Post your Comments",
+        "btn": "Send Message",
+        "commentsData": [
+            {
+                "id": 1,
+                "image": "/img/avatar_2.png",
+                "author": "Jassica William",
+                "reply": "Reply",
+                "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facere optio ipsum maiores mollitia quisquam."
+            },
+            {
+                "id": 2,
+                "image": "/img/avatar_3.png",
+                "author": "Md. Arham",
+                "reply": "Reply",
+                "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facere optio ipsum maiores mollitia quisquam."
+            }
+        ]
+    }
+}
